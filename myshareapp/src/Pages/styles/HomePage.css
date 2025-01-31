@@ -1,0 +1,14 @@
+@media (max-width: 767px) {
+    .select-files-btn {
+      position: fixed;
+      bottom: 10px;
+      width: 100%;
+    }
+  
+    .notification {
+      position: fixed;
+      bottom: 60px;
+      right: 10px;
+    }
+  }
+  
